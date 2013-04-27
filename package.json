@@ -1,0 +1,13 @@
+{
+  "name": "clusterify",
+  "version": "0.0.0",
+  "description": "A simple executable script to easily cluster an app",
+  "main": "index.js",
+  "bin": {"clusterify": "./index.js"},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD"
+}
